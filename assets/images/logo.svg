@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="10.4287mm" height="7.1778mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 14 10"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil6 {fill:#217EA3}
+    .fil5 {fill:#419BBE}
+    .fil4 {fill:#64B9DB}
+    .fil7 {fill:#6D5F9A}
+    .fil3 {fill:#8178B3}
+    .fil1 {fill:#419BBE;fill-rule:nonzero}
+    .fil2 {fill:#604F89;fill-rule:nonzero}
+    .fil0 {fill:#64B9DB;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1722240371504">
+   <g>
+    <polygon class="fil0" points="7,10 0,0 4,0 9,7 "/>
+    <polygon class="fil1" points="4,0 14,0 12,3 7,3 "/>
+    <polygon class="fil2" points="11,4 9,7 7,4 "/>
+   </g>
+   <polygon class="fil3" points="11,4 9,5 7,4 "/>
+   <polygon class="fil4" points="4,0 7,2 11,2 14,0 "/>
+   <polygon class="fil5" points="0,0 3,2 4,0 "/>
+   <polygon class="fil6" points="4,0 3,2 7,7 9,7 "/>
+   <polygon class="fil6" points="4,0 7,2 7,3 "/>
+   <polygon class="fil6" points="11,2 14,0 12,3 "/>
+   <polygon class="fil5" points="9,7 7,7 7,10 "/>
+   <polygon class="fil7" points="11,4 9,5 9,7 "/>
+  </g>
+ </g>
+</svg>
